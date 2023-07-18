@@ -6,5 +6,4 @@ Through real-life examples, practical exercises, and proven techniques, "The Rol
 
 So join us on this journey of self-discovery and learn how to unlock your full potential as a communicator, leader, and team player. Discover the power of effective communication, and unleash your true potential for success and fulfillment within your organization.
 
-
 MingHai Zheng is the founder of zhengpublishing.com and lives in Wuhan, China. His main publishing areas are business, management, self-help, computers and other emerging foreword fields.
