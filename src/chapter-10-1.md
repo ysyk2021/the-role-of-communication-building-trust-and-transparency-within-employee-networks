@@ -30,4 +30,3 @@ Conclusion
 
 Building trust and transparency within employee networks requires intentional efforts to develop effective communication strategies and establish a culture of openness and collaboration. By using the key points and strategies outlined in this book, organizations can create a positive and productive work environment where employees feel valued, respected, and engaged.
 
-
