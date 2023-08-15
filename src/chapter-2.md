@@ -1,12 +1,9 @@
 Chapter 2: Overview of Communication in Organizations
 =====================================================
 
-Introduction
-------------
-
 In this chapter, we will explore the fundamental aspects of communication within organizations. Effective communication plays a crucial role in building trust and transparency within employee networks. We will discuss various types of communication, the benefits it brings, and the challenges organizations may face. Additionally, techniques for overcoming common communication challenges will be addressed.
 
-Sub-chapter 2.1: Different Types of Communication
+Different Types of Communication
 -------------------------------------------------
 
 Effective communication encompasses various forms that facilitate information exchange within organizations. Understanding these different types helps create a comprehensive communication strategy. The sub-chapter will cover the following:
@@ -19,7 +16,7 @@ Effective communication encompasses various forms that facilitate information ex
 * Horizontal Communication: Communication among individuals working at the same hierarchical level.
 * External Communication: Interaction with stakeholders outside the organization, such as clients, customers, suppliers, and the public.
 
-Sub-chapter 2.2: The Benefits and Challenges of Communication
+The Benefits and Challenges of Communication
 -------------------------------------------------------------
 
 Effective communication brings numerous benefits to organizations, fostering collaboration, productivity, and innovation. However, certain challenges can hinder successful communication. This sub-chapter will delve into:
@@ -27,7 +24,7 @@ Effective communication brings numerous benefits to organizations, fostering col
 * Benefits of Communication: Enhanced understanding, employee engagement, trust-building, conflict resolution, and knowledge sharing.
 * Challenges of Communication: Noise, language barriers, cultural differences, information overload, lack of feedback, and misinterpretation.
 
-Sub-chapter 2.3: Techniques for Overcoming Common Communication Challenges
+Techniques for Overcoming Common Communication Challenges
 --------------------------------------------------------------------------
 
 To ensure effective communication, organizations must address and overcome common challenges. This sub-chapter will present techniques and strategies that help mitigate these difficulties:
