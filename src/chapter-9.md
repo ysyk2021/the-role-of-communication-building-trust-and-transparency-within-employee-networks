@@ -1,5 +1,3 @@
-Chapter 9: Ethical Considerations in Communication
-==================================================
 
 Effective communication is critical for building trust and transparency within employee networks. However, ethical considerations must be taken into account when communicating with employees and stakeholders. In this chapter, we will discuss ethical considerations related to communication and techniques for addressing them.
 

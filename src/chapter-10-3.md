@@ -1,5 +1,3 @@
-Future Directions for Research and Practice
-===================================================================
 
 In this book, we have explored the role of communication in building trust and transparency within employee networks. We have discussed the science behind communication, techniques for developing effective communication strategies, and strategies for building trust and transparency through communication. In this final chapter, we will suggest some potential future directions for research and practice in this field.
 

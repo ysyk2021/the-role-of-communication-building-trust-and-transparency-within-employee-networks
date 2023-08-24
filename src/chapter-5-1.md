@@ -1,5 +1,3 @@
-Techniques for Building Trust and Transparency through Communication
-=============================================================================
 
 Effective communication plays a pivotal role in building trust and transparency within employee networks. This chapter will explore techniques and strategies for fostering trust, promoting transparent communication, and strengthening relationships within organizations.
 

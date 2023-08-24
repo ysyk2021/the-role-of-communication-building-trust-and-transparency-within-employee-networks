@@ -1,5 +1,3 @@
-Respecting Confidentiality and Privacy
-===============================================
 
 Respecting confidentiality and privacy is paramount in communication within employee networks. This chapter explores the importance of confidentiality and privacy and provides techniques for organizations to uphold these principles.
 

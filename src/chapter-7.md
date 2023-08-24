@@ -1,5 +1,3 @@
-Chapter 7: Using Technology to Enhance Communication
-====================================================
 
 In today's digital age, technology plays a crucial role in enhancing communication within organizations. This chapter discusses techniques for using technology to improve employee communication.
 

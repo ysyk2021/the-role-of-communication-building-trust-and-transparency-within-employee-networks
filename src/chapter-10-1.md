@@ -1,5 +1,3 @@
-Recap of Key Points and Strategies
-==========================================================
 
 In this book, we have explored the role of communication in building trust and transparency within employee networks. We have examined the science behind communication, techniques for developing effective communication strategies, and strategies for building trust and transparency through communication.
 

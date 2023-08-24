@@ -1,5 +1,3 @@
-Chapter 5: Building Trust and Transparency through Communication
-================================================================
 
 In this chapter, we will explore how effective communication can help build trust and transparency within employee networks.
 

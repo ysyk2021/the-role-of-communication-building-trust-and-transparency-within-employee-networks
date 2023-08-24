@@ -1,5 +1,3 @@
-Techniques for Understanding the Science of Communication
-================================================================================================================
 
 In this chapter, we will explore techniques for understanding the science of communication and how it can be applied to build trust and transparency within employee networks.
 

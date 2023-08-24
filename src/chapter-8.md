@@ -1,5 +1,3 @@
-Chapter 8: Measuring and Evaluating Communication Effectiveness
-===============================================================
 
 In this chapter, we will explore how to measure and evaluate communication effectiveness in order to promote trust and transparency within employee networks.
 

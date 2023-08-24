@@ -1,5 +1,3 @@
-Verbal, Nonverbal, and Written Communication
-=====================================================
 
 Effective communication within employee networks encompasses various forms, including verbal, nonverbal, and written communication. This chapter explores the significance of each communication mode and their roles in building trust and transparency.
 

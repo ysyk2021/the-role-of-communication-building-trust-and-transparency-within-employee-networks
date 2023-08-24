@@ -1,5 +1,3 @@
-Chapter 6: Addressing Barriers to Effective Communication
-=========================================================
 
 Effective communication is critical for building trust and transparency within employee networks. However, several barriers can impede effective communication, such as cultural differences, language barriers, and resistance to change. In this chapter, we will discuss techniques for addressing barriers to effective communication.
 

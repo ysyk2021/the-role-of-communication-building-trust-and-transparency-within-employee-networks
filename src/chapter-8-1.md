@@ -1,5 +1,3 @@
-Metrics for Measuring Communication Effectiveness
-==========================================================
 
 Measuring communication effectiveness is essential for understanding the impact of communication strategies and improving trust and transparency within employee networks. This chapter explores various metrics that organizations can use to assess communication effectiveness and provides guidance on their implementation.
 

@@ -1,5 +1,3 @@
-Defining the Importance of Communication in Building Trust and Transparency within Employee Networks
-=============================================================================================================
 
 Effective communication serves as the backbone for building trust and transparency within employee networks. This chapter will delve into the significance of communication in fostering trust, promoting transparency, and strengthening relationships within organizations.
 

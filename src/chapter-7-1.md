@@ -1,5 +1,3 @@
-Techniques for Using Technology to Enhance Communication
-=================================================================
 
 In today's digital era, technology plays a crucial role in enhancing communication within employee networks. Leveraging appropriate technological tools and platforms can significantly improve the efficiency, effectiveness, and accessibility of communication. This chapter will explore various techniques for using technology to enhance communication within organizations.
 

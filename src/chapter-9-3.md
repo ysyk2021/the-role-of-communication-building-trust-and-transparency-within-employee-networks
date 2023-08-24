@@ -1,5 +1,3 @@
-Avoiding Misinformation and Manipulation
-=================================================
 
 In today's digital age, avoiding misinformation and manipulation is crucial for fostering trust and transparency within employee networks. This chapter explores the impact of misinformation and manipulation, and provides techniques for organizations to mitigate these risks.
 

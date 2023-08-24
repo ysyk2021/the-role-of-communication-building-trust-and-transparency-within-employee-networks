@@ -1,5 +1,3 @@
-Encouraging Feedback and Dialogue
-==========================================
 
 Feedback and dialogue are essential components of effective communication within employee networks. By encouraging open and constructive feedback, organizations can foster trust, transparency, and collaboration among employees. This chapter will explore the importance of feedback and dialogue in communication and provide strategies to encourage their practice.
 

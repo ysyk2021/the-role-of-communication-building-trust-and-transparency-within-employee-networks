@@ -1,5 +1,3 @@
-Identifying Communication Goals and Objectives
-=======================================================
 
 In this chapter, we will explore the importance of identifying clear communication goals and objectives within employee networks. Effective communication requires a strategic approach that aligns with organizational objectives and supports the building of trust and transparency. By defining specific goals and objectives, organizations can guide their communication efforts and maximize their impact.
 

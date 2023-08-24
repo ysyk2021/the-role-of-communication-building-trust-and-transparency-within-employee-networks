@@ -1,5 +1,3 @@
-Evaluating Individual and Organizational Performance
-=====================================================================================================================
 
 Effective communication is critical for building trust and transparency within employee networks. However, organizations must be able to measure and evaluate the effectiveness of their communication practices to ensure that they are meeting their goals and objectives. In this chapter, we will discuss techniques for measuring and evaluating communication effectiveness and how to use these insights to evaluate individual and organizational performance.
 

@@ -1,5 +1,3 @@
-Chapter 4: Developing Effective Communication Strategies
-========================================================
 
 In this chapter, we will explore techniques for developing effective communication strategies that can help build trust and transparency within employee networks.
 

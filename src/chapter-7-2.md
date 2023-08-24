@@ -1,5 +1,3 @@
-Leveraging Social Media and Collaboration Tools
-========================================================
 
 In today's digital age, social media and collaboration tools offer powerful platforms for enhancing communication, building trust, and fostering transparency within employee networks. This chapter will explore strategies and techniques for leveraging social media and collaboration tools to facilitate effective communication within organizations.
 

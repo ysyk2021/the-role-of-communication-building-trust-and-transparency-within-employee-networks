@@ -1,5 +1,3 @@
-Creating Open Lines of Communication
-=============================================
 
 Creating open lines of communication is crucial for building trust, enhancing transparency, and fostering collaboration within employee networks. This chapter will explore strategies and techniques to establish and maintain open lines of communication within organizations.
 
